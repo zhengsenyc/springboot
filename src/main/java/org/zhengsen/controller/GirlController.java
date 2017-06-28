@@ -61,6 +61,10 @@ public class GirlController {
     public void delete(@PathVariable("id") Integer id){
         girlDao.delete(id);
     }
+	
+	public void run1(){
+		//hello
+	}
 
 
 
