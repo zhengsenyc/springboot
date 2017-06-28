@@ -1,0 +1,8 @@
+server:
+  port: 8082
+  context-path: /zhengsen
+name: 瑞文
+cupSize: B
+user:
+  username: 女枪
+  cupSize: D
